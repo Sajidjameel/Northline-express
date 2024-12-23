@@ -58,7 +58,7 @@ This project caters to individuals and businesses needing reliable fireplace and
 
 Hello, I’m **Sajid Jamil**, an experienced **BigCommerce developer** with a passion for building high-performing, scalable eCommerce platforms. The **Northline Express** project demonstrates my ability to develop feature-rich solutions that improve the customer journey while achieving business objectives. From secure payments to advanced filtering options, I focus on delivering eCommerce experiences that drive customer satisfaction and business growth.
 
-If you're looking to build or optimize an eCommerce platform on **BigCommerce**, feel free to reach out for a consultation and collaboration.
+If you're looking to build or optimize an eCommerce platform on **BigCommerce** feel free to reach out for a consultation and collaboration.
 
 ---
 
